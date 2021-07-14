@@ -1,0 +1,22 @@
+
+body{
+    font-family: sans-serif;
+}
+.post-card{
+    display: flex;
+    max-width: 500px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.post-card h3{
+    font-size: 30px;
+    color: green;
+}
+span{
+    display: block;
+
+}
+.post-card p{
+    font-size: 20px;
+
+}
